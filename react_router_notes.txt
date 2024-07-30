@@ -1,0 +1,27 @@
+Intro
+Create React App
+
+    npx create-react-app .
+    
+    Project Start minimal requirements
+    <node_modules>
+
+    <public>
+        index.html
+        
+    <src>
+        App.css
+        App.js
+        index.js
+
+    .gitignore
+    {}package-lock.json
+    {}package.json
+    README.md
+
+Install react-router-dom@6.4
+    npm install react-router-dom@6.4
+
+Install json-server
+
+    json-server -p 4000 -w ./assets/db.json
