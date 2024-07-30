@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/KwameDomfe/lys-foundation/static/css/main.0ecbfacb.css",
+    "main.js": "/KwameDomfe/lys-foundation/static/js/main.31895361.js",
+    "static/media/capecoastcastle.jpg": "/KwameDomfe/lys-foundation/static/media/capecoastcastle.4a60996bef21e2bb7466.jpg",
+    "static/media/sky.jpg": "/KwameDomfe/lys-foundation/static/media/sky.373630e9a650121ef478.jpg",
+    "static/media/linkedin.svg": "/KwameDomfe/lys-foundation/static/media/linkedin.33129ba0cdc4cb48fb4e6b583ac1060e.svg",
+    "index.html": "/KwameDomfe/lys-foundation/index.html",
+    "static/media/youtube.svg": "/KwameDomfe/lys-foundation/static/media/youtube.643a7e472730ec77d8bdc252cf23edc0.svg",
+    "static/media/twitter.svg": "/KwameDomfe/lys-foundation/static/media/twitter.66fd1faabbfa4faee2bbfd08cd71be83.svg",
+    "static/media/facebook.svg": "/KwameDomfe/lys-foundation/static/media/facebook.4c38149b469ee5615f4a02295a5f8d80.svg",
+    "static/media/menu-close-icon.svg": "/KwameDomfe/lys-foundation/static/media/menu-close-icon.f641b90d442dc509eff68bd611145c22.svg",
+    "main.0ecbfacb.css.map": "/KwameDomfe/lys-foundation/static/css/main.0ecbfacb.css.map",
+    "main.31895361.js.map": "/KwameDomfe/lys-foundation/static/js/main.31895361.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ecbfacb.css",
+    "static/js/main.31895361.js"
+  ]
+}
