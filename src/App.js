@@ -75,6 +75,7 @@ const router = createBrowserRouter(
             element={<RootLayout />}
         > 
             <Route index 
+                exact
                 element = {<HomePage />}
             />
 
