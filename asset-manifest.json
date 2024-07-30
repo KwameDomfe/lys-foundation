@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/lys-foundation/static/css/main.0ecbfacb.css",
-    "main.js": "/lys-foundation/static/js/main.d45fc903.js",
+    "main.js": "/lys-foundation/static/js/main.b9c92eb2.js",
     "static/media/capecoastcastle.jpg": "/lys-foundation/static/media/capecoastcastle.4a60996bef21e2bb7466.jpg",
     "static/media/sky.jpg": "/lys-foundation/static/media/sky.373630e9a650121ef478.jpg",
     "static/media/linkedin.svg": "/lys-foundation/static/media/linkedin.33129ba0cdc4cb48fb4e6b583ac1060e.svg",
@@ -11,10 +11,10 @@
     "static/media/facebook.svg": "/lys-foundation/static/media/facebook.4c38149b469ee5615f4a02295a5f8d80.svg",
     "static/media/menu-close-icon.svg": "/lys-foundation/static/media/menu-close-icon.f641b90d442dc509eff68bd611145c22.svg",
     "main.0ecbfacb.css.map": "/lys-foundation/static/css/main.0ecbfacb.css.map",
-    "main.d45fc903.js.map": "/lys-foundation/static/js/main.d45fc903.js.map"
+    "main.b9c92eb2.js.map": "/lys-foundation/static/js/main.b9c92eb2.js.map"
   },
   "entrypoints": [
     "static/css/main.0ecbfacb.css",
-    "static/js/main.d45fc903.js"
+    "static/js/main.b9c92eb2.js"
   ]
 }
