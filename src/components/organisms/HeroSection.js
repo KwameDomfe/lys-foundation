@@ -6,7 +6,7 @@ function HeroSection() {
   return (
     <section id="HeroSection" 
         className="grid gtc12
-            min-vh-100 mt4-00"
+            min-vh-80 mt4-00"
     >   
         <img id="HeroSection__Banner" 
             src={jpg_1}
@@ -24,34 +24,34 @@ function HeroSection() {
         <div id="HeroSection__Content" 
         className="container container90
             gc1s12 gr1s1 items-center justify-center
-            pt6-00 pb4-00
+            pt4-00 pb4-00
             grid gtc12 ggap1-00 
             f2-00 white-90"
         >
             <hgroup className="w-100 gc1s9 gr1s1 ">
-                <h1 className="mt0-00 mb4-00">
-                Clients are our focus on our delivery promise. 
+                <h1 className="mt0-00 mb2-00">
+                At Lys Foundation, we believe every child should have an opportunity to attain quality education. 
                 </h1>
-                <p >
+                {/* <p >
                 We architect Bespoke Digital Solutions for our clients 
-                </p>
+                </p> */}
                 <div className="mb3-00 mt4-00">
-                    <Link  to="#" 
+                    <Link  to="lys-school" 
                         className="dib 
                             mr2-00 pv0-50 ph1-00 
                             ba 
                             f1-25 ttu bg-gold
                             br0-25 b--gold black-90
                             bw1">
-                        request for a service
+                        Lys School
                     </Link>
-                    <Link to="#" className="dib 
+                    <Link to="lys-foundation" className="dib 
                             pv0-50 ph1-00 
                             ba 
                             f1-25
                             br0-25 b--gold gold
                             bw1 ttu">
-                        TOUR our projects
+                        Lys Foundation
                     </Link>
                 </div>
             </hgroup>
@@ -81,7 +81,7 @@ function HeroSection() {
             </div>
         </div>
 
-        <footer id="HeroSection__Footer" 
+        {/* <footer id="HeroSection__Footer" 
             className="gc1s12
                 flex justify-between items-center 
                 container container90  
@@ -123,7 +123,7 @@ function HeroSection() {
                 ba br5-00">
                 card III
             </div>
-        </footer>
+        </footer> */}
 
     </section>
   )
